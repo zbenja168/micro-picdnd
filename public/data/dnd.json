@@ -5,6 +5,7 @@
     "label": "Penicillin",
     "category": "Pharmacology",
     "brick": "Penicillins",
+    "order": 10,
     "explanation": "The strained beta-lactam ring mimics the D-Ala-D-Ala terminus of the peptidoglycan pentapeptide, letting penicillin covalently bind and irreversibly inhibit transpeptidase (PBP)."
   },
   {
@@ -13,6 +14,7 @@
     "label": "Pseudomembranous colitis",
     "category": "Pathology",
     "brick": "Penicillins",
+    "order": 10,
     "explanation": "Antibiotic-associated pseudomembranous colitis results from overgrowth of toxin-producing C. difficile spores after normal flora is disrupted; the yellow-white plaques are the pseudomembranes."
   },
   {
@@ -21,6 +23,7 @@
     "label": "Maculopapular rash",
     "category": "Pathology",
     "brick": "Penicillins",
+    "order": 10,
     "explanation": "Ampicillin or amoxicillin given during EBV mononucleosis produces a characteristic non-allergic maculopapular rash; it does not indicate a true penicillin allergy."
   },
   {
@@ -29,6 +32,7 @@
     "label": "Streptococcus",
     "category": "Lab & Diagnostics",
     "brick": "Streptococci and Enterococci",
+    "order": 11,
     "explanation": "The retained crystal violet (purple) color indicates a Gram-positive organism, and the arrangement in chains is characteristic of Streptococcus, distinguishing it from the grape-like clusters of Staphylococcus."
   },
   {
@@ -37,6 +41,7 @@
     "label": "Pharyngitis",
     "category": "Pathology",
     "brick": "Streptococci and Enterococci",
+    "order": 11,
     "explanation": "S. pyogenes (GAS) is the most common bacterial cause of pharyngitis, presenting with fever, tonsillar erythema, palatal petechiae, and cervical lymphadenopathy."
   },
   {
@@ -45,6 +50,7 @@
     "label": "Impetigo",
     "category": "Pathology",
     "brick": "Streptococci and Enterococci",
+    "order": 11,
     "explanation": "Impetigo is a superficial epidermal infection caused most often by S. aureus and S. pyogenes; S. pyogenes causes the nonbullous form."
   },
   {
@@ -53,6 +59,7 @@
     "label": "Strawberry tongue",
     "category": "Pathology",
     "brick": "Streptococci and Enterococci",
+    "order": 11,
     "explanation": "Scarlet fever, including the strawberry tongue, results from systemic release of the erythrogenic toxins SPE-A and SPE-C, which are acquired by S. pyogenes via lysogenic conversion."
   },
   {
@@ -61,6 +68,7 @@
     "label": "Scarlet fever",
     "category": "Pathology",
     "brick": "Streptococci and Enterococci",
+    "order": 11,
     "explanation": "Scarlet fever's blanching sandpaper rash with circumoral pallor is caused by erythrogenic toxins produced by S. pyogenes."
   },
   {
@@ -69,6 +77,7 @@
     "label": "PYR test",
     "category": "Lab & Diagnostics",
     "brick": "Streptococci and Enterococci",
+    "order": 11,
     "explanation": "The PYR (pyrrolidonyl arylamidase) test is positive for S. pyogenes and Enterococcus spp., which hydrolyze the substrate to produce a pink/cherry-red color."
   },
   {
@@ -77,6 +86,7 @@
     "label": "Rusty sputum",
     "category": "Pathology",
     "brick": "Streptococci and Enterococci",
+    "order": 11,
     "explanation": "Rusty sputum is a classic finding in pneumococcal pneumonia, the most common cause of community-acquired bacterial pneumonia."
   },
   {
@@ -85,6 +95,7 @@
     "label": "Gram-positive rods",
     "category": "Lab & Diagnostics",
     "brick": "Clostridia",
+    "order": 12,
     "explanation": "The elongated rods retain the crystal violet stain (appearing dark blue/purple), identifying them as Gram-positive bacilli, consistent with Clostridia among the surrounding red blood cells."
   },
   {
@@ -93,6 +104,7 @@
     "label": "Blood agar",
     "category": "Lab & Diagnostics",
     "brick": "Clostridia",
+    "order": 12,
     "explanation": "C. perfringens classically produces a double (target) zone of hemolysis on blood agar, an inner complete zone from theta-toxin and an outer partial zone from alpha-toxin (a lecithinase)."
   },
   {
@@ -101,6 +113,7 @@
     "label": "Endospores",
     "category": "Lab & Diagnostics",
     "brick": "Clostridia",
+    "order": 12,
     "explanation": "The terminal structures are endospores, dormant forms that allow the organism to survive harsh conditions such as heat, drying, and chemical disinfection until favorable anaerobic conditions return."
   },
   {
@@ -109,6 +122,7 @@
     "label": "Listeria monocytogenes",
     "category": "Lab & Diagnostics",
     "brick": "Listeria Monocytogenes",
+    "order": 13,
     "explanation": "The purple (crystal-violet retaining) rod-shaped bacteria identify Listeria monocytogenes as a Gram-positive, facultative intracellular rod that often grows in short chains or pairs resembling Streptococcus."
   },
   {
@@ -117,6 +131,7 @@
     "label": "Listeria pathogenesis",
     "category": "Pathology",
     "brick": "Listeria Monocytogenes",
+    "order": 13,
     "explanation": "By invading host cells, escaping the phagosome, and spreading directly cell-to-cell via actin-based motility, L. monocytogenes remains largely intracellular. This shields it from circulating antibodies and explains why cell-mediated immunity is critical for control, so patients with defective cellular immunity are at highest risk."
   },
   {
@@ -125,6 +140,7 @@
     "label": "Antibiotic resistance",
     "category": "Pharmacology",
     "brick": "Listeria Monocytogenes",
+    "order": 13,
     "explanation": "L. monocytogenes is inherently resistant to fluoroquinolones, cephalosporins, macrolides, and tetracyclines through efflux pumps, enzymatic inactivation, reduced uptake, and target modification. Ampicillin (often with gentamicin) remains the treatment of choice."
   },
   {
@@ -133,6 +149,7 @@
     "label": "Fluoroquinolones",
     "category": "Pharmacology",
     "brick": "Fluoroquinolones",
+    "order": 15,
     "explanation": "The core is the quinolone ring; adding a fluorine atom (seen on nalidixic acid's successors) yields the fluoroquinolones, which have broader gram-negative coverage and stronger binding to type II topoisomerases than the parent quinolone."
   },
   {
@@ -141,6 +158,7 @@
     "label": "Topoisomerase IV",
     "category": "Physiology & Mechanisms",
     "brick": "Fluoroquinolones",
+    "order": 15,
     "explanation": "The stepwise reduction from 4 to 0 braids shows topoisomerase IV passing one duplex through another to separate (decatenate) the two completed bacterial chromosomes; DNA gyrase performs the related task of managing negative supercoils."
   },
   {
@@ -149,6 +167,7 @@
     "label": "DNA gyrase",
     "category": "Physiology & Mechanisms",
     "brick": "Fluoroquinolones",
+    "order": 15,
     "explanation": "Fluoroquinolones trap the enzyme after it has nicked DNA, preventing religation; the resulting persistent double-strand breaks stop DNA synthesis and produce a bactericidal effect."
   },
   {
@@ -157,6 +176,7 @@
     "label": "Stevens-Johnson syndrome",
     "category": "Pathology",
     "brick": "Fluoroquinolones",
+    "order": 15,
     "explanation": "The widespread epidermal detachment with mucosal and periorificial involvement is characteristic of the SJS/TEN spectrum, a rare but life-threatening hypersensitivity reaction; affected patients must avoid the offending fluoroquinolone permanently."
   },
   {
@@ -165,6 +185,7 @@
     "label": "Haemophilus influenzae",
     "category": "Lab & Diagnostics",
     "brick": "Neisseria and Haemophilus",
+    "order": 16,
     "explanation": "H. influenzae cannot lyse RBCs itself and requires exogenous factor X (hematin) and factor V (NAD), which is why it grows only on media containing lysed blood, such as chocolate agar."
   },
   {
@@ -173,6 +194,7 @@
     "label": "Chocolate agar",
     "category": "Lab & Diagnostics",
     "brick": "Neisseria and Haemophilus",
+    "order": 16,
     "explanation": "The agar is browned by heating blood, which lyses RBCs and frees factor X (hematin) and factor V (NAD). On intact blood agar these factors remain inside RBCs, so H. influenzae cannot grow."
   },
   {
@@ -181,6 +203,7 @@
     "label": "Bacterial meningitis",
     "category": "Pathology",
     "brick": "Neisseria and Haemophilus",
+    "order": 16,
     "explanation": "A dense neutrophil-rich purulent exudate blanketing the meninges is the hallmark of acute pyogenic bacterial meningitis, as caused by H. influenzae or N. meningitidis; viral meningitis produces a lymphocytic, non-purulent picture."
   },
   {
@@ -189,6 +212,7 @@
     "label": "MacConkey agar",
     "category": "Lab & Diagnostics",
     "brick": "Enterobacteriaceae",
+    "order": 17,
     "explanation": "This is MacConkey agar, a selective (bile salts/crystal violet inhibit gram-positives) and differential medium. Lactose fermenters produce acid that lowers the pH and turns the neutral-red indicator pink, while non-fermenters remain colorless."
   },
   {
@@ -197,6 +221,7 @@
     "label": "EMB agar",
     "category": "Lab & Diagnostics",
     "brick": "Enterobacteriaceae",
+    "order": 17,
     "explanation": "On eosin-methylene blue (EMB) agar, vigorous lactose fermentation by E. coli precipitates the dyes to produce the characteristic green metallic sheen, distinguishing it from other Enterobacteriaceae."
   },
   {
@@ -205,6 +230,7 @@
     "label": "Beta hemolysis",
     "category": "Lab & Diagnostics",
     "brick": "Enterobacteriaceae",
+    "order": 17,
     "explanation": "Complete lysis of erythrocytes producing a clear, colorless zone is beta hemolysis. Among Enterobacteriaceae only E. coli is beta-hemolytic."
   },
   {
@@ -213,6 +239,7 @@
     "label": "Motility test",
     "category": "Lab & Diagnostics",
     "brick": "Enterobacteriaceae",
+    "order": 17,
     "explanation": "Growth radiating away from the inoculation stab indicates motility, mediated by flagella. Confinement to the stab line (right) indicates a nonmotile organism."
   },
   {
@@ -221,6 +248,7 @@
     "label": "LPS",
     "category": "Physiology & Mechanisms",
     "brick": "Enterobacteriaceae",
+    "order": 17,
     "explanation": "The three components shown (O-specific polysaccharide, core polysaccharide, and lipid A) make up lipopolysaccharide, the endotoxin of the gram-negative outer membrane. Lipid A drives the inflammatory/septic response."
   },
   {
@@ -229,6 +257,7 @@
     "label": "Actin pedestals",
     "category": "Histology & Cell Biology",
     "brick": "Enterobacteriaceae",
+    "order": 17,
     "explanation": "Enteropathogenic E. coli efface the microvilli and induce localized actin polymerization, forming characteristic actin pedestals beneath the attached bacteria, disrupting absorption."
   },
   {
@@ -237,6 +266,7 @@
     "label": "Shiga toxin",
     "category": "Physiology & Mechanisms",
     "brick": "Enterobacteriaceae",
+    "order": 17,
     "explanation": "Enterohemorrhagic E. coli releases Shiga-like toxin, which removes an adenine from the 28S rRNA of the 60S ribosomal subunit, inhibiting protein synthesis and causing cell death; systemic spread underlies hemolytic uremic syndrome."
   },
   {
@@ -245,6 +275,7 @@
     "label": "Indole test",
     "category": "Lab & Diagnostics",
     "brick": "Enterobacteriaceae",
+    "order": 18,
     "explanation": "The indole test detects tryptophanase; a red ring after adding Kovac's reagent marks an indole-positive organism, a key trait separating E. coli (positive) from K. pneumoniae (negative)."
   },
   {
@@ -253,6 +284,7 @@
     "label": "Klebsiella colonies",
     "category": "Lab & Diagnostics",
     "brick": "Enterobacteriaceae",
+    "order": 18,
     "explanation": "K. pneumoniae has a large polysaccharide capsule that gives its colonies a characteristic mucoid, slimy appearance; the pink color reflects lactose fermentation on MacConkey agar."
   },
   {
@@ -261,6 +293,7 @@
     "label": "Staghorn calculus",
     "category": "Pathology",
     "brick": "Enterobacteriaceae",
+    "order": 18,
     "explanation": "Urease-producing organisms alkalinize the urine and generate ammonia, precipitating struvite (magnesium ammonium phosphate), which can grow into a branching staghorn calculus."
   },
   {
@@ -269,6 +302,7 @@
     "label": "Proteus swarming",
     "category": "Lab & Diagnostics",
     "brick": "Enterobacteriaceae",
+    "order": 18,
     "explanation": "Proteus mirabilis is strongly motile with peritrichous flagella; alternating cycles of swarming and consolidation across the agar create the concentric bull's-eye rings."
   },
   {
@@ -277,6 +311,7 @@
     "label": "Serratia pigment",
     "category": "Lab & Diagnostics",
     "brick": "Enterobacteriaceae",
+    "order": 18,
     "explanation": "Serratia marcescens produces prodigiosin, a red pigment; pyocyanin (blue-green) is made by Pseudomonas and staphyloxanthin (gold) by S. aureus."
   },
   {
@@ -285,6 +320,7 @@
     "label": "Flagellum",
     "category": "Histology & Cell Biology",
     "brick": "Bacterial Structure, Growth, and Staining",
+    "order": 1,
     "explanation": "The polar filament is a flagellum, a protein cylinder anchored in the cell envelope that rotates to propel the bacterium; adhesion is a role of pili/fimbriae, and conjugative transfer uses sex pili."
   },
   {
@@ -293,6 +329,7 @@
     "label": "Bacterial cell",
     "category": "Histology & Cell Biology",
     "brick": "Bacterial Structure, Growth, and Staining",
+    "order": 1,
     "explanation": "The absence of a nucleus with the nucleoid/circular DNA free in the cytoplasm, plus a capsule, cell wall, pili and flagellum, identifies this as a prokaryotic bacterial cell."
   },
   {
@@ -301,6 +338,7 @@
     "label": "Acid-fast bacilli",
     "category": "Lab & Diagnostics",
     "brick": "Bacterial Structure, Growth, and Staining",
+    "order": 1,
     "explanation": "Acid-fast organisms such as Mycobacteria have waxy mycolic acids in their walls that resist decolorization by acid-alcohol, so they hold the red carbol fuchsin while other cells take up the methylene blue counterstain."
   },
   {
@@ -309,6 +347,7 @@
     "label": "Gram-negative diplococci",
     "category": "Lab & Diagnostics",
     "brick": "Bacterial Structure, Growth, and Staining",
+    "order": 1,
     "explanation": "Gram-negative diplococci lose the crystal violet during decolorization because their thin peptidoglycan sits between inner and outer membranes, so they take up the pink safranin counterstain."
   },
   {
@@ -317,6 +356,7 @@
     "label": "Bacterial ribosome",
     "category": "Physiology & Mechanisms",
     "brick": "Protein Synthesis Inhibitors",
+    "order": 20,
     "explanation": "The figure shows the 70S bacterial ribosome composed of a 30S and 50S subunit, with the A (acceptor), P (peptidyl), and E (exit) tRNA-binding sites and rRNA. Aminoglycosides and tetracyclines are 30S subunit inhibitors, whereas macrolides, clindamycin, chloramphenicol, and linezolid act on the 50S subunit."
   },
   {
@@ -325,6 +365,7 @@
     "label": "Aminoglycosides",
     "category": "Pharmacology",
     "brick": "Protein Synthesis Inhibitors",
+    "order": 21,
     "explanation": "The panels depict nephrotoxicity, ototoxicity, and fetal harm, the hallmark adverse effects of aminoglycosides. Ototoxicity results from aminoglycoside inhibition of mitochondrial ribosomes in cochlear and vestibular hair cells, causing cell death; cochlear loss is irreversible while vestibular cells can partly regenerate."
   },
   {
@@ -333,6 +374,7 @@
     "label": "Myasthenia gravis",
     "category": "Pathology",
     "brick": "Protein Synthesis Inhibitors",
+    "order": 21,
     "explanation": "The diagram shows antibodies against the acetylcholine receptor preventing ACh from activating the postsynaptic membrane, the defining mechanism of myasthenia gravis. Aminoglycosides can antagonize ACh receptors and cause neuromuscular blockade that compounds this deficit, so they are used cautiously in these patients."
   },
   {
@@ -341,6 +383,7 @@
     "label": "Macrolides",
     "category": "Pharmacology",
     "brick": "Protein Synthesis Inhibitors",
+    "order": 21,
     "explanation": "The panels show macrolide adverse effects: diarrhea, QT prolongation, nausea, and vomiting. By prolonging the QT interval, macrolides increase the risk of torsades de pointes, so they are avoided with other QT-prolonging agents and in patients with cardiovascular disease."
   },
   {
@@ -349,6 +392,7 @@
     "label": "Linezolid",
     "category": "Pharmacology",
     "brick": "Protein Synthesis Inhibitors",
+    "order": 21,
     "explanation": "The figure shows linezolid adverse effects: bone marrow suppression, peripheral neuropathy, and serotonin syndrome. Linezolid is a reversible MAO inhibitor, so co-administration with serotonergic drugs such as SSRIs or SNRIs can raise serotonin levels and precipitate serotonin syndrome."
   },
   {
@@ -357,6 +401,7 @@
     "label": "Type III secretion system",
     "category": "Physiology & Mechanisms",
     "brick": "Salmonella, Shigella, and Campylobacter",
+    "order": 22,
     "explanation": "The structure is a Type III secretion system, a syringe-like injectisome that spans both membranes of gram-negative bacteria and translocates effector proteins directly into host cells to promote invasion and block phagocytic killing."
   },
   {
@@ -365,6 +410,7 @@
     "label": "Spleen",
     "category": "Pathology",
     "brick": "Salmonella, Shigella, and Campylobacter",
+    "order": 22,
     "explanation": "The specimen is a shrunken, infarcted spleen (autosplenectomy). Functional asplenia, as in sickle cell disease, impairs clearance of encapsulated and intracellular organisms and markedly increases the risk of disseminated salmonellosis."
   },
   {
@@ -373,6 +419,7 @@
     "label": "Rose spots",
     "category": "Pathology",
     "brick": "Salmonella, Shigella, and Campylobacter",
+    "order": 22,
     "explanation": "Rose spots, a transient maculopapular rash on the trunk, are characteristic of typhoidal salmonellosis (typhoid fever). This finding does not occur with nontyphoidal Salmonella infection."
   },
   {
@@ -381,6 +428,7 @@
     "label": "MacConkey agar",
     "category": "Lab & Diagnostics",
     "brick": "Salmonella, Shigella, and Campylobacter",
+    "order": 22,
     "explanation": "Colorless (non-pink) colonies on MacConkey agar indicate a non-lactose fermenter. Salmonella spp. are gram-negative, lactose-non-fermenting rods, which appear pale against the pink lactose-fermenting background flora."
   },
   {
@@ -389,6 +437,7 @@
     "label": "TSI agar",
     "category": "Lab & Diagnostics",
     "brick": "Salmonella, Shigella, and Campylobacter",
+    "order": 22,
     "explanation": "On TSI agar, Salmonella ferments glucose (yellow, acidic butt) and produces H2S, which reacts with iron salts to form a black precipitate. This distinguishes it from Shigella, which does not produce H2S."
   },
   {
@@ -397,6 +446,7 @@
     "label": "Campylobacter",
     "category": "Lab & Diagnostics",
     "brick": "Salmonella, Shigella, and Campylobacter",
+    "order": 22,
     "explanation": "Campylobacter spp. are gram-negative, comma- or S-shaped (seagull-shaped) rods, distinguishing them from the straight rods of Salmonella and Shigella. They are also oxidase positive and grow optimally at 42 degrees C."
   },
   {
@@ -405,6 +455,7 @@
     "label": "Keratitis",
     "category": "Pathology",
     "brick": "Pseudomonas and Related Bacteria",
+    "order": 23,
     "explanation": "Pseudomonas aeruginosa is a leading cause of severe, rapidly progressive bacterial keratitis, especially with contact lens use or contaminated solutions; its proteases and toxins drive aggressive corneal destruction."
   },
   {
@@ -413,6 +464,7 @@
     "label": "Polar flagellum",
     "category": "Lab & Diagnostics",
     "brick": "Pseudomonas and Related Bacteria",
+    "order": 23,
     "explanation": "Pseudomonas spp. are motile by a single polar flagellum, which drives their characteristic swimming motility and helps them reach and colonize surfaces."
   },
   {
@@ -421,6 +473,7 @@
     "label": "Biofilm",
     "category": "Physiology & Mechanisms",
     "brick": "Pseudomonas and Related Bacteria",
+    "order": 23,
     "explanation": "Pseudomonas spp. secrete extracellular polysaccharides and macromolecules to form biofilms, which shield the bacteria from the environment, predators, antibiotics, and the host immune response."
   },
   {
@@ -429,6 +482,7 @@
     "label": "Pyocyanin",
     "category": "Lab & Diagnostics",
     "brick": "Pseudomonas and Related Bacteria",
+    "order": 23,
     "explanation": "Pyocyanin is a blue pigment produced by P. aeruginosa that is toxic to cells including leukocytes and epithelial cells, and together with yellow pyoverdine gives colonies their blue-to-aqua color."
   },
   {
@@ -437,6 +491,7 @@
     "label": "Hot tub folliculitis",
     "category": "Pathology",
     "brick": "Pseudomonas and Related Bacteria",
+    "order": 23,
     "explanation": "Hot tub folliculitis is caused by Pseudomonas contaminating warm water; the bacteria enter hair follicles through microabrasions, producing follicular papules and pustules that usually resolve without complications."
   },
   {
@@ -445,6 +500,7 @@
     "label": "Diabetic foot ulcer",
     "category": "Pathology",
     "brick": "Pseudomonas and Related Bacteria",
+    "order": 23,
     "explanation": "Pseudomonas is a well-known cause of foot infections in diabetics, especially after puncture wounds through footwear, and can seed bone and joints to cause osteomyelitis."
   },
   {
@@ -453,6 +509,7 @@
     "label": "Cystic fibrosis airway",
     "category": "Physiology & Mechanisms",
     "brick": "Pseudomonas and Related Bacteria",
+    "order": 23,
     "explanation": "Cystic fibrosis results from a CFTR mutation that impairs chloride and water transport across epithelia, producing thick, sticky mucus that obstructs the airways and creates a niche for Pseudomonas colonization."
   },
   {
@@ -461,6 +518,7 @@
     "label": "Ecthyma gangrenosum",
     "category": "Pathology",
     "brick": "Pseudomonas and Related Bacteria",
+    "order": 23,
     "explanation": "Ecthyma gangrenosum is a necrotic skin lesion seen with hematogenous dissemination of Pseudomonas; lesions favor the anogenital and axillary areas and evolve from macules to pustules to necrotic ulcers."
   },
   {
@@ -469,6 +527,7 @@
     "label": "Pseudomonas culture",
     "category": "Lab & Diagnostics",
     "brick": "Pseudomonas and Related Bacteria",
+    "order": 23,
     "explanation": "Pseudomonas colonies characteristically show an aqua-to-green color from pyocyanin and pyoverdine; it is a non-lactose-fermenting, oxidase-positive gram-negative rod."
   },
   {
@@ -477,6 +536,7 @@
     "label": "Mucoid vs nonmucoid",
     "category": "Lab & Diagnostics",
     "brick": "Pseudomonas and Related Bacteria",
+    "order": 23,
     "explanation": "Mucoid strains, characteristic of cystic fibrosis isolates, overproduce an alginate capsule that can absorb hundreds of times its weight in water and helps the bacteria adhere to and colonize mucus."
   },
   {
@@ -485,6 +545,7 @@
     "label": "Acinetobacter Gram stain",
     "category": "Lab & Diagnostics",
     "brick": "Pseudomonas and Related Bacteria",
+    "order": 23,
     "explanation": "Acinetobacter spp. appear as gram-negative coccobacilli (a shape between a sphere and a rod), are non-motile and oxidase-negative, and are a common cause of ventilator-associated pneumonia."
   },
   {
@@ -493,6 +554,7 @@
     "label": "Sulfonamide",
     "category": "Pharmacology",
     "brick": "Sulfonamides",
+    "order": 25,
     "explanation": "The structure shows a central sulfur double-bonded to two oxygens and single-bonded to a nitrogen (the sulfonamide moiety) with variable R groups. This sulfonamide functional group defines the sulfa drug class, which acts as competitive inhibitors of bacterial folate synthesis."
   },
   {
@@ -501,6 +563,7 @@
     "label": "Folate synthesis",
     "category": "Physiology & Mechanisms",
     "brick": "Sulfonamides",
+    "order": 25,
     "explanation": "The schematic shows PABA being converted through DHF to THF inside the bacterium, with sulfonamides blocking the folate-synthesis step. Mammalian cells lack dihydropteroate synthase and obtain preformed folate from the diet, so blocking de novo folate synthesis harms bacteria selectively."
   },
   {
@@ -509,6 +572,7 @@
     "label": "Folate pathway",
     "category": "Physiology & Mechanisms",
     "brick": "Sulfonamides",
+    "order": 25,
     "explanation": "The flowchart shows sulfonamides inhibiting dihydropteroate synthase and trimethoprim/pyrimethamine inhibiting dihydrofolate reductase, two consecutive steps leading to tetrahydrofolic acid. Blocking both steps sharply reduces THF for nucleotide and protein synthesis, converting two bacteriostatic agents into a bactericidal combination."
   },
   {
@@ -517,6 +581,7 @@
     "label": "Stevens-Johnson syndrome",
     "category": "Pathology",
     "brick": "Sulfonamides",
+    "order": 25,
     "explanation": "The photograph shows large-scale epidermal desquamation, the hallmark of Stevens-Johnson syndrome and its more extensive form toxic epidermal necrolysis. These are rare but potentially fatal hypersensitivity reactions to sulfonamides that mandate immediate discontinuation of the drug."
   },
   {
@@ -525,6 +590,7 @@
     "label": "Acid-fast bacilli",
     "category": "Lab & Diagnostics",
     "brick": "Mycobacterium Tuberculosis and MAC",
+    "order": 26,
     "explanation": "Mycobacteria have a lipid-rich, mycolic acid cell wall that will not take up the Gram stain, so the Ziehl-Neelsen (acid-fast) stain is required; retained pink color identifies acid-fast bacilli."
   },
   {
@@ -533,6 +599,7 @@
     "label": "Lowenstein-Jensen medium",
     "category": "Lab & Diagnostics",
     "brick": "Mycobacterium Tuberculosis and MAC",
+    "order": 26,
     "explanation": "Mycobacterium tuberculosis is a very slow grower on Lowenstein-Jensen medium, with detection taking up to 10 days or several weeks, reflecting its long doubling time."
   },
   {
@@ -541,6 +608,7 @@
     "label": "Waxy colonies",
     "category": "Lab & Diagnostics",
     "brick": "Mycobacterium Tuberculosis and MAC",
+    "order": 26,
     "explanation": "The high mycolic acid content of the mycobacterial cell wall gives colonies their rough, waxy, buff appearance, distinct from the smooth colonies of typical bacteria."
   },
   {
@@ -549,6 +617,7 @@
     "label": "Cord factor",
     "category": "Histology & Cell Biology",
     "brick": "Mycobacterium Tuberculosis and MAC",
+    "order": 26,
     "explanation": "Cord factor (trehalose dimycolate) causes M. tuberculosis to grow in the characteristic serpentine cords seen here and is toxic to mammalian cells while inhibiting neutrophil migration."
   },
   {
@@ -557,6 +626,7 @@
     "label": "Granuloma",
     "category": "Pathology",
     "brick": "Mycobacterium Tuberculosis and MAC",
+    "order": 26,
     "explanation": "Granuloma formation is driven by cell-mediated (type IV) immunity: T cells recruit and organize macrophages (including multinucleated giant cells) around the infection, walling it off with central caseous necrosis."
   },
   {
@@ -565,6 +635,7 @@
     "label": "Ghon complex",
     "category": "Pathology",
     "brick": "Mycobacterium Tuberculosis and MAC",
+    "order": 26,
     "explanation": "The Ghon complex (a peripheral parenchymal Ghon focus plus caseating hilar nodes) develops during primary tuberculosis infection."
   },
   {
@@ -573,6 +644,7 @@
     "label": "Chest X-ray",
     "category": "Lab & Diagnostics",
     "brick": "Mycobacterium Tuberculosis and MAC",
+    "order": 26,
     "explanation": "Primary TB typically shows a peripheral parenchymal (Ghon) focus with prominent hilar lymphadenopathy, unlike the apical cavitation of reactivation disease."
   },
   {
@@ -581,6 +653,7 @@
     "label": "Cavitary TB",
     "category": "Lab & Diagnostics",
     "brick": "Mycobacterium Tuberculosis and MAC",
+    "order": 26,
     "explanation": "Reactivation TB characteristically produces cavitary disease in the well-oxygenated apices/upper lobes of the lungs."
   },
   {
@@ -589,6 +662,7 @@
     "label": "Miliary TB",
     "category": "Pathology",
     "brick": "Mycobacterium Tuberculosis and MAC",
+    "order": 26,
     "explanation": "Miliary tuberculosis results when bacilli seed the bloodstream and disseminate widely, producing tiny nodules throughout the lungs and other organs."
   },
   {
@@ -597,6 +671,7 @@
     "label": "PPD skin test",
     "category": "Lab & Diagnostics",
     "brick": "Mycobacterium Tuberculosis and MAC",
+    "order": 26,
     "explanation": "A positive PPD is a type IV reaction: memory T cells sensitized by prior infection are recruited to the injection site, release cytokines, and cause induration over 48-72 hours."
   },
   {
@@ -605,6 +680,7 @@
     "label": "Chest X-ray",
     "category": "Lab & Diagnostics",
     "brick": "Atypical Bacteria",
+    "order": 27,
     "explanation": "Mycoplasma pneumoniae causes atypical ('walking') pneumonia in which lung involvement on imaging is characteristically streaky/patchy interstitial infiltrates that appear worse than the patient's mild symptoms, rather than the dense lobar consolidation of typical bacterial pneumonia."
   },
   {
@@ -613,6 +689,7 @@
     "label": "Mycoplasma pneumoniae",
     "category": "Lab & Diagnostics",
     "brick": "Atypical Bacteria",
+    "order": 27,
     "explanation": "Mycoplasma pneumoniae lacks a cell wall entirely, so it has no fixed shape and appears pleomorphic; the absence of peptidoglycan also makes cell-wall-active antibiotics (beta-lactams) ineffective."
   },
   {
@@ -621,6 +698,7 @@
     "label": "Fried-egg colonies",
     "category": "Lab & Diagnostics",
     "brick": "Atypical Bacteria",
+    "order": 27,
     "explanation": "Mycoplasma is unique among bacteria in incorporating sterols such as cholesterol into its membrane and therefore requires sterol-supplemented media to grow; the resulting colonies show the classic fried-egg morphology."
   },
   {
@@ -629,6 +707,7 @@
     "label": "Chlamydia inclusion",
     "category": "Histology & Cell Biology",
     "brick": "Atypical Bacteria",
+    "order": 27,
     "explanation": "Chlamydia species replicate inside a membrane-bound endosome (inclusion) within the host-cell cytoplasm, which enlarges as the bacteria multiply and can eventually dominate the cell volume."
   },
   {
@@ -637,6 +716,7 @@
     "label": "Chlamydia life cycle",
     "category": "Physiology & Mechanisms",
     "brick": "Atypical Bacteria",
+    "order": 27,
     "explanation": "Chlamydia are obligate intracellular bacteria historically mistaken for viruses because they cannot generate sufficient ATP and rely on host-cell energy; the cycle alternates infectious elementary bodies with replicating reticulate bodies inside the inclusion."
   },
   {
@@ -645,6 +725,7 @@
     "label": "Chlamydia lysis",
     "category": "Histology & Cell Biology",
     "brick": "Atypical Bacteria",
+    "order": 27,
     "explanation": "At the end of the chlamydial cycle, reticulate bodies convert back to elementary bodies and the infected cell lyses, releasing infectious elementary bodies that go on to infect neighboring cells."
   },
   {
@@ -653,6 +734,7 @@
     "label": "Coiling phagocytosis",
     "category": "Histology & Cell Biology",
     "brick": "Atypical Bacteria",
+    "order": 27,
     "explanation": "Legionella pneumophila is a facultative intracellular pathogen taken up by macrophages via coiling phagocytosis; it then inhibits phagosome-lysosome fusion, allowing it to persist and replicate inside the phagocyte."
   },
   {
@@ -661,6 +743,7 @@
     "label": "Urine antigen test",
     "category": "Lab & Diagnostics",
     "brick": "Atypical Bacteria",
+    "order": 27,
     "explanation": "The urine antigen test detects only L. pneumophila serogroup 1; because that serogroup causes about 90% of cases it remains very useful, but PCR or culture is needed to catch the other serogroups."
   },
   {
@@ -669,6 +752,7 @@
     "label": "Legionella culture",
     "category": "Lab & Diagnostics",
     "brick": "Atypical Bacteria",
+    "order": 27,
     "explanation": "Legionella pneumophila requires cysteine and iron, supplied by buffered charcoal yeast extract (BCYE) agar; because it stains poorly with Gram stain, a silver stain is used to visualize it in tissue or sputum."
   },
   {
@@ -677,6 +761,7 @@
     "label": "Ixodes scapularis",
     "category": "Lab & Diagnostics",
     "brick": "Bacterial Tick-Borne Diseases",
+    "order": 28,
     "explanation": "The immature nymph is small and easily overlooked, so it typically remains attached long enough (36-48 h) to transmit Borrelia burgdorferi. The larger adult forms are usually noticed and removed before transmission."
   },
   {
@@ -685,6 +770,7 @@
     "label": "Erythema migrans",
     "category": "Pathology",
     "brick": "Bacterial Tick-Borne Diseases",
+    "order": 28,
     "explanation": "Erythema migrans, the bull's-eye rash, appears in 70-80% of Lyme disease patients during stage 1 and is the hallmark early sign of Borrelia burgdorferi infection."
   },
   {
@@ -693,6 +779,7 @@
     "label": "Lyme rash",
     "category": "Pathology",
     "brick": "Bacterial Tick-Borne Diseases",
+    "order": 28,
     "explanation": "The figure shows the many morphologies the Lyme disease rash can take. All are manifestations of infection by the spirochete Borrelia burgdorferi; the rash may also be absent entirely."
   },
   {
@@ -701,6 +788,7 @@
     "label": "Maculopapular rash",
     "category": "Pathology",
     "brick": "Bacterial Tick-Borne Diseases",
+    "order": 28,
     "explanation": "Rickettsia rickettsii invades endothelial cells lining blood vessels, producing a vasculitis that manifests as the centripetal maculopapular (and later petechial) rash of Rocky Mountain spotted fever."
   },
   {
@@ -709,6 +797,7 @@
     "label": "Transposons",
     "category": "Physiology & Mechanisms",
     "brick": "Bacterial Reproduction and Genetics",
+    "order": 2,
     "explanation": "Transposons frequently carry drug-resistance genes; when a resistance gene is flanked on both sides by transposon sequences it can be cut out and inserted elsewhere, spreading resistance between plasmids and chromosomes."
   },
   {
@@ -717,6 +806,7 @@
     "label": "Conjugation",
     "category": "Physiology & Mechanisms",
     "brick": "Bacterial Reproduction and Genetics",
+    "order": 2,
     "explanation": "Conjugation requires physical contact: the F+ donor forms a sex pilus and mating bridge with the F- recipient and transfers a single strand of the F plasmid, converting the recipient into a donor. No chromosomal DNA and no external vector is involved."
   },
   {
@@ -725,6 +815,7 @@
     "label": "Hfr conjugation",
     "category": "Physiology & Mechanisms",
     "brick": "Bacterial Reproduction and Genetics",
+    "order": 2,
     "explanation": "In an Hfr (high-frequency recombination) donor the F plasmid is integrated in the chromosome, so transfer starting at the plasmid origin drags adjacent chromosomal genes into the recipient, allowing recombination of donor chromosomal DNA."
   },
   {
@@ -733,6 +824,7 @@
     "label": "Generalized transduction",
     "category": "Physiology & Mechanisms",
     "brick": "Bacterial Reproduction and Genetics",
+    "order": 2,
     "explanation": "In generalized transduction, during lytic growth random pieces of degraded host chromosome are accidentally packaged into phage capsids, so any host gene can be moved to a recipient, unlike specialized transduction which transfers only genes flanking the prophage."
   },
   {
@@ -741,6 +833,7 @@
     "label": "Specialized transduction",
     "category": "Physiology & Mechanisms",
     "brick": "Bacterial Reproduction and Genetics",
+    "order": 2,
     "explanation": "In specialized transduction the prophage integrates at a specific chromosomal site; imprecise excision picks up only the immediately adjacent bacterial DNA, so just those flanking genes can be carried to the next host."
   },
   {
@@ -749,6 +842,7 @@
     "label": "Virus structure",
     "category": "Physiology & Mechanisms",
     "brick": "Introduction to Virology",
+    "order": 31,
     "explanation": "The middle and right particles are enveloped viruses surrounded by a lipid bilayer derived from host membrane. Alcohol dissolves this lipid envelope, destroying infectivity, whereas the naked (non-enveloped) virus on the left lacks an envelope and is comparatively resistant."
   },
   {
@@ -757,6 +851,7 @@
     "label": "Viral load kinetics",
     "category": "Lab & Diagnostics",
     "brick": "Introduction to Virology",
+    "order": 31,
     "explanation": "Viral load rises rapidly and peaks well before antibodies become detectable, so early in infection serology (IgM or IgG) is falsely negative. A nucleic acid amplification test such as RT-PCR detects viral RNA at this early high-viral-load stage, making it the most reliable confirmatory test in the first week."
   },
   {
@@ -765,6 +860,7 @@
     "label": "HSV life cycle",
     "category": "Physiology & Mechanisms",
     "brick": "Herpesviridae",
+    "order": 32,
     "explanation": "Herpesviruses use retrograde axonal transport to reach sensory ganglia where they establish latency, then travel back down (anterograde) upon reactivation to produce lesions at the original mucocutaneous site."
   },
   {
@@ -773,6 +869,7 @@
     "label": "Genital herpes",
     "category": "Pathology",
     "brick": "Herpesviridae",
+    "order": 32,
     "explanation": "Painful, grouped genital vesicles that ulcerate are the hallmark of genital herpes, most often caused by HSV-2."
   },
   {
@@ -781,6 +878,7 @@
     "label": "Gingivostomatitis",
     "category": "Pathology",
     "brick": "Herpesviridae",
+    "order": 32,
     "explanation": "Primary herpetic gingivostomatitis, with painful vesicles and ulceration involving the gingiva and oral mucosa, is most commonly caused by initial HSV-1 infection."
   },
   {
@@ -789,6 +887,7 @@
     "label": "Herpetic keratitis",
     "category": "Pathology",
     "brick": "Herpesviridae",
+    "order": 32,
     "explanation": "Herpetic keratitis is most commonly caused by HSV-1 and is a leading infectious cause of corneal blindness."
   },
   {
@@ -797,6 +896,7 @@
     "label": "Neonatal herpes",
     "category": "Pathology",
     "brick": "Herpesviridae",
+    "order": 32,
     "explanation": "Neonatal herpes is most often acquired from an HSV-2 shedding maternal genital tract during delivery and classically presents with vesicular lesions around the eyes and mouth."
   },
   {
@@ -805,6 +905,7 @@
     "label": "Herpetic whitlow",
     "category": "Pathology",
     "brick": "Herpesviridae",
+    "order": 32,
     "explanation": "Herpetic whitlow is an HSV infection of the finger, historically common in healthcare workers before routine glove use and spread by autoinoculation."
   },
   {
@@ -813,6 +914,7 @@
     "label": "Herpes gladiatorum",
     "category": "Pathology",
     "brick": "Herpesviridae",
+    "order": 32,
     "explanation": "Herpes gladiatorum is a cutaneous HSV infection spread by direct skin contact in contact-sport athletes such as wrestlers."
   },
   {
@@ -821,6 +923,7 @@
     "label": "Tzanck smear",
     "category": "Lab & Diagnostics",
     "brick": "Herpesviridae",
+    "order": 32,
     "explanation": "Multinucleated giant cells (Tzanck cells) on a smear indicate infection by an alpha-herpesvirus: HSV-1, HSV-2, or VZV."
   },
   {
@@ -829,6 +932,7 @@
     "label": "Chicken pox",
     "category": "Pathology",
     "brick": "Herpesviridae",
+    "order": 32,
     "explanation": "Chicken pox is caused by primary VZV infection, with lesions evolving through macule, papule, vesicle, and crust stages."
   },
   {
@@ -837,6 +941,7 @@
     "label": "Palatal vesicles",
     "category": "Pathology",
     "brick": "Herpesviridae",
+    "order": 32,
     "explanation": "VZV can produce a vesicular enanthem on the oral mucosa (including the soft palate) in addition to the widespread skin rash of chicken pox."
   },
   {
@@ -845,6 +950,7 @@
     "label": "Shingles",
     "category": "Pathology",
     "brick": "Herpesviridae",
+    "order": 32,
     "explanation": "A painful dermatomal vesicular rash respecting the midline is shingles, caused by reactivation of latent varicella zoster virus in a sensory ganglion."
   },
   {
@@ -853,6 +959,7 @@
     "label": "Oral hairy leukoplakia",
     "category": "Pathology",
     "brick": "Herpesviridae",
+    "order": 33,
     "explanation": "The non-scrapable, corrugated white plaque on the lateral tongue is oral hairy leukoplakia, an EBV-driven lesion classically seen in HIV/AIDS and other severely immunosuppressed patients. Unlike thrush (Candida), it cannot be scraped off."
   },
   {
@@ -861,6 +968,7 @@
     "label": "CMV inclusion",
     "category": "Histology & Cell Biology",
     "brick": "Herpesviridae",
+    "order": 33,
     "explanation": "CMV massively enlarges infected cells (cyto = cell, megalo = large) and produces a large basophilic intranuclear inclusion with a surrounding clear halo, the classic 'owl's eye' inclusion."
   },
   {
@@ -869,6 +977,7 @@
     "label": "Periventricular calcification",
     "category": "Lab & Diagnostics",
     "brick": "Herpesviridae",
+    "order": 33,
     "explanation": "Congenital CMV characteristically causes periventricular intracranial calcifications. This contrasts with Toxoplasma, which tends to cause diffuse scattered intracranial calcifications."
   },
   {
@@ -877,6 +986,7 @@
     "label": "Viral replication cycle",
     "category": "Physiology & Mechanisms",
     "brick": "Antivirals for Herpesvirus Infections",
+    "order": 34,
     "explanation": "Acyclovir and related guanosine analogs are prodrugs that must first be monophosphorylated by virus-specific thymidine kinase before host kinases complete activation to the triphosphate that blocks viral nucleic acid synthesis. This dependence on the viral enzyme underlies both the drug's selectivity and the resistance seen when thymidine kinase is mutated."
   },
   {
@@ -885,6 +995,7 @@
     "label": "Kaposi sarcoma",
     "category": "Pathology",
     "brick": "Retroviridae",
+    "order": 35,
     "explanation": "The image shows Kaposi sarcoma, a vascular tumor of endothelial cells caused by HHV-8 (KSHV). It classically arises in immunocompromised patients, especially those with advanced HIV, appearing as red-purple skin nodules."
   },
   {
@@ -893,6 +1004,7 @@
     "label": "Needle wear",
     "category": "Physiology & Mechanisms",
     "brick": "Retroviridae",
+    "order": 35,
     "explanation": "With repeated use the needle tip becomes dull and develops barbs. Users may lick or reuse needles, and this damage combined with sharing greatly increases physical tissue injury and the risk of transmitting HIV and other bloodborne pathogens."
   },
   {
@@ -901,6 +1013,7 @@
     "label": "HIV disease course",
     "category": "Pathology",
     "brick": "Retroviridae",
+    "order": 36,
     "explanation": "Early after exposure HIV replicates rapidly and seeds lymphoid tissue, producing a burst of viremia with a sharp fall in CD4 counts. As cytotoxic T cells and antibodies develop, viremia drops to a set point and CD4 counts partially recover, giving the long clinical-latency plateau before the terminal AIDS decline."
   },
   {
@@ -909,6 +1022,7 @@
     "label": "Integrase inhibition",
     "category": "Pharmacology",
     "brick": "Antiretrovirals for HIV Infection",
+    "order": 38,
     "explanation": "The blocked step is integration of viral DNA into the host genome, catalyzed by integrase. Dolutegravir is an integrase strand transfer inhibitor (INSTI) that acts here. Enfuvirtide is a fusion/entry inhibitor, tenofovir is an NRTI, efavirenz is an NNRTI (both act at reverse transcription), and ritonavir is a protease inhibitor/pharmacokinetic booster."
   },
   {
@@ -917,6 +1031,7 @@
     "label": "Spanish flu",
     "category": "Pathology",
     "brick": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae",
+    "order": 39,
     "explanation": "The scene is a 1918 Spanish influenza (H1N1) ward. Lung-biopsy studies from victims showed the leading direct cause of death was secondary bacterial pneumonia (e.g., S. pneumoniae, S. aureus, H. influenzae) complicating the viral infection, in the pre-antibiotic era."
   },
   {
@@ -925,6 +1040,7 @@
     "label": "Antigenic shift",
     "category": "Physiology & Mechanisms",
     "brick": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae",
+    "order": 39,
     "explanation": "The figure depicts genetic reassortment (antigenic shift). Because influenza carries 7-8 discrete RNA segments, co-infecting strains can swap whole segments, abruptly generating a novel HA/NA combination with pandemic potential. This occurs essentially only in influenza A owing to its animal reservoirs."
   },
   {
@@ -933,6 +1049,7 @@
     "label": "Vaginal candidiasis",
     "category": "Pathology",
     "brick": "Normal Flora: Role in Health and Disease",
+    "order": 3,
     "explanation": "The thick, white, curd-like plaque with erythema and pruritus is characteristic of vulvovaginal candidiasis caused by the yeast Candida albicans, which overgrows when normal vaginal flora is disrupted."
   },
   {
@@ -941,6 +1058,7 @@
     "label": "Oral thrush",
     "category": "Pathology",
     "brick": "Normal Flora: Role in Health and Disease",
+    "order": 3,
     "explanation": "Oral thrush is an overgrowth of Candida spp. in the oral cavity, presenting as a wipeable white plaque; it is often triggered by antibiotics, inhaled steroids, dentures, or immunosuppression."
   },
   {
@@ -949,6 +1067,7 @@
     "label": "Clue cell",
     "category": "Histology & Cell Biology",
     "brick": "Normal Flora: Role in Health and Disease",
+    "order": 3,
     "explanation": "A vaginal epithelial cell coated with adherent bacteria (obscuring its borders) is a clue cell, the microscopic hallmark of bacterial vaginosis, typically due to Gardnerella vaginalis overgrowth."
   },
   {
@@ -957,6 +1076,7 @@
     "label": "Eustachian tube",
     "category": "Gross Anatomy",
     "brick": "Normal Flora: Role in Health and Disease",
+    "order": 3,
     "explanation": "In young children the eustachian tube is shorter, narrower, and more horizontal, allowing nasopharyngeal flora to migrate into the middle ear and impairing drainage, which predisposes to acute otitis media."
   },
   {
@@ -965,6 +1085,7 @@
     "label": "Steeple sign",
     "category": "Lab & Diagnostics",
     "brick": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae",
+    "order": 40,
     "explanation": "The tapered, pencil-point narrowing of the subglottic trachea on an AP neck film is the classic steeple sign, produced by subglottic edema in croup, most often caused by parainfluenza virus. Epiglottitis shows a thumbprint sign on lateral film, not subglottic narrowing."
   },
   {
@@ -973,6 +1094,7 @@
     "label": "Measles rash",
     "category": "Pathology",
     "brick": "Orthomyxoviridae, Pneumoviridae, and Paramyxoviridae",
+    "order": 40,
     "explanation": "The blanching maculopapular rash that starts at the hairline/face and spreads caudally, together with the 3 Cs (cough, coryza, conjunctivitis) and preceding Koplik spots, is characteristic of measles. Lesions may coalesce into larger patches as seen here."
   },
   {
@@ -981,6 +1103,7 @@
     "label": "Intussusception",
     "category": "Pathology",
     "brick": "Caliciviridae, Matonaviridae, and Reoviridae",
+    "order": 41,
     "explanation": "The image depicts intussusception, a rare bowel obstruction that is a recognized adverse event of the oral rotavirus vaccine; surgery is sometimes required to correct it."
   },
   {
@@ -989,6 +1112,7 @@
     "label": "Congenital rubella",
     "category": "Pathology",
     "brick": "Caliciviridae, Matonaviridae, and Reoviridae",
+    "order": 41,
     "explanation": "The cataracts shown are a hallmark of congenital rubella syndrome, whose classic triad is cataracts, sensorineural deafness, and congenital heart defects. Microcephaly with periventricular calcifications instead suggests congenital CMV."
   },
   {
@@ -997,6 +1121,7 @@
     "label": "Blueberry muffin rash",
     "category": "Pathology",
     "brick": "Caliciviridae, Matonaviridae, and Reoviridae",
+    "order": 41,
     "explanation": "The 'blueberry muffin' rash of congenital TORCH infections such as rubella and CMV results from foci of extramedullary hematopoiesis in the dermis; associated thrombocytopenia contributes overlying petechiae and purpura."
   },
   {
@@ -1005,6 +1130,7 @@
     "label": "Congenital cataracts",
     "category": "Lab & Diagnostics",
     "brick": "Caliciviridae, Matonaviridae, and Reoviridae",
+    "order": 41,
     "explanation": "Dense lens opacification (cataract) blocks the normal red reflex, producing a white pupillary reflex (leukocoria). Cotton-wool spots and Roth spots are retinal findings that could not be appreciated when the lens itself is opaque."
   },
   {
@@ -1013,6 +1139,7 @@
     "label": "Broad-based budding",
     "category": "Lab & Diagnostics",
     "brick": "Mycology: An Introduction",
+    "order": 43,
     "explanation": "Broad-based budding of large yeast with a thick, doubly-refractile wall is the hallmark of Blastomyces dermatitidis. Histoplasma is small and intracellular with narrow-based budding, Cryptococcus is encapsulated, and Candida forms pseudohyphae."
   },
   {
@@ -1021,6 +1148,7 @@
     "label": "Fungal cell wall",
     "category": "Pharmacology",
     "brick": "Mycology: An Introduction",
+    "order": 43,
     "explanation": "The membrane sterol shown is ergosterol. Polyenes such as amphotericin B bind ergosterol and punch pores in the membrane, causing lethal ion leakage. Echinocandins act on glucan synthase in the wall, azoles and allylamines block ergosterol synthesis, and griseofulvin disrupts microtubules."
   },
   {
@@ -1029,6 +1157,7 @@
     "label": "Oral thrush",
     "category": "Pathology",
     "brick": "Mycology: An Introduction",
+    "order": 43,
     "explanation": "Oral thrush is overgrowth of Candida albicans, part of the normal flora that flourishes when local or systemic immunity is suppressed (e.g., inhaled steroids, HIV). It is a yeast, not a mold or bacterium, and forms removable white pseudomembranous plaques."
   },
   {
@@ -1037,6 +1166,7 @@
     "label": "Candida stain",
     "category": "Lab & Diagnostics",
     "brick": "Candida and Aspergillus",
+    "order": 44,
     "explanation": "Candida is dimorphic (though not thermally dimorphic), so patient samples show both yeast and hyphal/pseudohyphal forms. Aspergillus exists only as septate hyphae, and Cryptococcus as encapsulated yeast."
   },
   {
@@ -1045,6 +1175,7 @@
     "label": "Germ tube test",
     "category": "Lab & Diagnostics",
     "brick": "Candida and Aspergillus",
+    "order": 44,
     "explanation": "Germ tube formation in serum at 37C is a rapid, near-specific identifier for Candida albicans; most other Candida species and non-Candida fungi do not form germ tubes under these conditions."
   },
   {
@@ -1053,6 +1184,7 @@
     "label": "Fungal sinusitis",
     "category": "Lab & Diagnostics",
     "brick": "Candida and Aspergillus",
+    "order": 44,
     "explanation": "A mass-like opacification of the sinus in an immunocompromised host, with potential bony destruction, suggests invasive fungal sinusitis; Aspergillus can colonize and invade the sinuses when host defenses are impaired."
   },
   {
@@ -1061,6 +1193,7 @@
     "label": "Cavitary lesion",
     "category": "Lab & Diagnostics",
     "brick": "Candida and Aspergillus",
+    "order": 44,
     "explanation": "Aspergillus can grow within pre-existing lung cavities (e.g., from prior TB) to form a mobile fungus ball, or aspergilloma, typically requiring surgery plus antifungals for treatment."
   },
   {
@@ -1069,6 +1202,7 @@
     "label": "Aspergillus cultures",
     "category": "Lab & Diagnostics",
     "brick": "Candida and Aspergillus",
+    "order": 44,
     "explanation": "Aspergillus species exist only as molds (septate hyphae) and never form a single-celled yeast phase, which is one feature distinguishing them from Candida in clinical specimens."
   },
   {
@@ -1077,6 +1211,7 @@
     "label": "Histoplasmosis pneumonia",
     "category": "Lab & Diagnostics",
     "brick": "Geographically Defined Mycoses",
+    "order": 45,
     "explanation": "Acute pulmonary histoplasmosis can produce a nodular pneumonia with adenopathy resembling miliary TB; imaging alone is not diagnostic and requires laboratory confirmation."
   },
   {
@@ -1085,6 +1220,7 @@
     "label": "Cavitary histoplasmosis",
     "category": "Lab & Diagnostics",
     "brick": "Geographically Defined Mycoses",
+    "order": 45,
     "explanation": "Cavitation and adenopathy in chronic pulmonary histoplasmosis can closely mimic tuberculosis, so identification and ruling out other causes is essential."
   },
   {
@@ -1093,6 +1229,7 @@
     "label": "Disseminated histoplasmosis",
     "category": "Pathology",
     "brick": "Geographically Defined Mycoses",
+    "order": 45,
     "explanation": "Disseminated histoplasmosis spreads via the reticuloendothelial system in patients with severe immunosuppression and can seed the skin among many organ systems."
   },
   {
@@ -1101,6 +1238,7 @@
     "label": "Histoplasma yeast",
     "category": "Lab & Diagnostics",
     "brick": "Geographically Defined Mycoses",
+    "order": 45,
     "explanation": "Tiny (2-5 um) yeasts with narrow-based budding are characteristic of Histoplasma; Blastomyces shows broad-based budding and Cryptococcus has a wide capsule."
   },
   {
@@ -1109,6 +1247,7 @@
     "label": "Histoplasma mold",
     "category": "Lab & Diagnostics",
     "brick": "Geographically Defined Mycoses",
+    "order": 45,
     "explanation": "The mold form of Histoplasma has both microconidia and distinctive large macroconidia (giant suns next to tiny microconidia); Blastomyces has conidia but no macroconidia."
   },
   {
@@ -1117,6 +1256,7 @@
     "label": "Blastomyces",
     "category": "Physiology & Mechanisms",
     "brick": "Geographically Defined Mycoses",
+    "order": 45,
     "explanation": "This is the range of Blastomyces, which favors decomposing leaves/wood and forms large yeast with characteristic broad-based budding."
   },
   {
@@ -1125,6 +1265,7 @@
     "label": "Coccidioides",
     "category": "Physiology & Mechanisms",
     "brick": "Geographically Defined Mycoses",
+    "order": 45,
     "explanation": "This is the range of Coccidioides (Valley Fever); its mold form fragments into barrel-shaped arthroconidia that are inhaled and then convert to spherules in tissue."
   },
   {
@@ -1133,6 +1274,7 @@
     "label": "Coccidioides mold",
     "category": "Lab & Diagnostics",
     "brick": "Geographically Defined Mycoses",
+    "order": 45,
     "explanation": "The mold form of Coccidioides produces alternating barrel-shaped arthroconidia with clear cells between them, giving a bracelet-like appearance."
   },
   {
@@ -1141,6 +1283,7 @@
     "label": "Coccidioides spherules",
     "category": "Histology & Cell Biology",
     "brick": "Geographically Defined Mycoses",
+    "order": 45,
     "explanation": "Giant thick-walled spherules filled with endospores are the diagnostic tissue form of Coccidioides."
   },
   {
@@ -1149,6 +1292,7 @@
     "label": "Erythema nodosum",
     "category": "Pathology",
     "brick": "Geographically Defined Mycoses",
+    "order": 45,
     "explanation": "Erythema nodosum reflects the immune system's response to fungal antigens leaking into the blood, not spread of the organism to the skin; it can also occur with non-infectious causes such as Crohn disease."
   },
   {
@@ -1157,6 +1301,7 @@
     "label": "Immunodiffusion assay",
     "category": "Lab & Diagnostics",
     "brick": "Geographically Defined Mycoses",
+    "order": 45,
     "explanation": "A precipitin line between a test well and the antigen well signals antigen-antibody complex formation, a positive result; wells that pass by one another without a line are negative."
   },
   {
@@ -1165,6 +1310,7 @@
     "label": "Cryptococcus",
     "category": "Lab & Diagnostics",
     "brick": "Geographically Defined Mycoses",
+    "order": 45,
     "explanation": "Cryptococcus has a very large polysaccharide capsule that excludes stain, creating a clear halo around the yeast."
   },
   {
@@ -1173,6 +1319,7 @@
     "label": "CNS cryptococcosis",
     "category": "Lab & Diagnostics",
     "brick": "Geographically Defined Mycoses",
+    "order": 45,
     "explanation": "Although all these fungi can disseminate to the CNS, Cryptococcus is by far the most likely to infect the central nervous system, causing meningitis and cryptococcomas."
   },
   {
@@ -1181,6 +1328,7 @@
     "label": "Cryptococcus India ink",
     "category": "Lab & Diagnostics",
     "brick": "Geographically Defined Mycoses",
+    "order": 45,
     "explanation": "India ink is a classic negative stain for CSF: the thick capsule of Cryptococcus excludes the ink, producing a clear halo around each yeast on a dark background."
   },
   {
@@ -1189,6 +1337,7 @@
     "label": "Ergosterol",
     "category": "Physiology & Mechanisms",
     "brick": "Antifungals: Drugs to Treat Fungal Infections",
+    "order": 46,
     "explanation": "The green molecules are ergosterol, the fungal analog of cholesterol. Because ergosterol is unique to fungal membranes and absent in humans, it (and its synthesis) is exploited for selective toxicity by polyenes and azoles."
   },
   {
@@ -1197,6 +1346,7 @@
     "label": "Antifungal targets",
     "category": "Pharmacology",
     "brick": "Antifungals: Drugs to Treat Fungal Infections",
+    "order": 46,
     "explanation": "Polyenes such as amphotericin B bind ergosterol and create pores in the fungal membrane, increasing permeability and causing lethal leakage of intracellular contents. The other options correspond to azoles, echinocandins, griseofulvin, and flucytosine respectively."
   },
   {
@@ -1205,6 +1355,7 @@
     "label": "Antifungal toxicities",
     "category": "Pharmacology",
     "brick": "Antifungals: Drugs to Treat Fungal Infections",
+    "order": 46,
     "explanation": "Amphotericin B causes decreased renal perfusion via vasoconstriction plus direct tubular damage, leading to renal tubular acidosis, potassium and magnesium wasting, and reduced erythropoietin (anemia). The distractors describe mechanisms not responsible for its nephrotoxicity."
   },
   {
@@ -1213,6 +1364,7 @@
     "label": "Epidermis",
     "category": "Histology & Cell Biology",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "Dermatophytes feed on keratin found only in the stratum corneum, hair, and nails, so they remain limited to keratinized superficial layers and rarely cause deep or systemic disease."
   },
   {
@@ -1221,6 +1373,7 @@
     "label": "Hairbrush",
     "category": "Physiology & Mechanisms",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "Brushes, combs, and hats are inanimate fomites that carry shed skin and hair laden with dermatophyte arthrospores, allowing indirect person-to-person transmission."
   },
   {
@@ -1229,6 +1382,7 @@
     "label": "Ringworm",
     "category": "Pathology",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "The classic ring shape with an active scaly border and central clearing is produced as the dermatophyte spreads outward while the immune response clears the center."
   },
   {
@@ -1237,6 +1391,7 @@
     "label": "Tinea capitis",
     "category": "Pathology",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "Scaly patches with patchy alopecia and broken hairs (black dots) in a child are characteristic of dermatophyte scalp infection, tinea capitis."
   },
   {
@@ -1245,6 +1400,7 @@
     "label": "Tinea capitis",
     "category": "Pathology",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "Tinea capitis is most frequently caused by Trichophyton and Microsporum species; Epidermophyton does not infect hair."
   },
   {
@@ -1253,6 +1409,7 @@
     "label": "Tinea barbae",
     "category": "Pathology",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "Tinea barbae is a dermatophyte infection of the beard region, typically acquired from animals and presenting with itchy, red, crusting lesions and hair loss."
   },
   {
@@ -1261,6 +1418,7 @@
     "label": "Tinea in cattle",
     "category": "Pathology",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "Livestock such as cattle harbor zoophilic dermatophytes (e.g., Trichophyton verrucosum) that can be transmitted to farmers and animal workers."
   },
   {
@@ -1269,6 +1427,7 @@
     "label": "Tinea corporis",
     "category": "Pathology",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "Microsporum canis is a zoophilic dermatophyte commonly transmitted from cats and dogs, making it a frequent cause of tinea corporis in pet owners."
   },
   {
@@ -1277,6 +1436,7 @@
     "label": "Tinea cruris",
     "category": "Pathology",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "Tinea cruris (jock itch) affects the groin and inner thighs with an advancing scaly border and characteristically spares the scrotum, unlike candidal infection."
   },
   {
@@ -1285,6 +1445,7 @@
     "label": "Tinea pedis",
     "category": "Pathology",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "The interdigital form is the most common presentation of athlete's foot, with macerated, scaly skin predominantly between the toes."
   },
   {
@@ -1293,6 +1454,7 @@
     "label": "Vesiculobullous tinea pedis",
     "category": "Pathology",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "The vesiculobullous form presents with painful, itchy blisters on the soles that are often intensely red and swollen."
   },
   {
@@ -1301,6 +1463,7 @@
     "label": "Onychomycosis",
     "category": "Pathology",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "Tinea unguium (onychomycosis) is a dermatophyte nail infection causing thick, discolored, brittle nails that are often resistant to topical therapy."
   },
   {
@@ -1309,6 +1472,7 @@
     "label": "Intertrigo",
     "category": "Pathology",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "Intertrigo is inflammation of skin folds caused by friction, moisture, and irritation, and it can predispose to secondary bacterial and fungal infection."
   },
   {
@@ -1317,6 +1481,7 @@
     "label": "Wood's lamp",
     "category": "Lab & Diagnostics",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "A Wood's lamp causes some dermatophytes (e.g., Microsporum canis) to fluoresce, but many do not, so a negative test cannot exclude a fungal infection."
   },
   {
@@ -1325,6 +1490,7 @@
     "label": "Epidermophyton",
     "category": "Lab & Diagnostics",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "Epidermophyton produces smooth, club-shaped macroconidia in clusters and characteristically lacks microconidia."
   },
   {
@@ -1333,6 +1499,7 @@
     "label": "Trichophyton",
     "category": "Lab & Diagnostics",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "Trichophyton is distinguished by cigar-shaped macroconidia, numerous microconidia, and sometimes coiled or spiraled hyphae."
   },
   {
@@ -1341,6 +1508,7 @@
     "label": "Microsporum",
     "category": "Lab & Diagnostics",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "Microsporum is identified by rough-walled, spindle-shaped macroconidia, in contrast to the smooth macroconidia of Epidermophyton."
   },
   {
@@ -1349,6 +1517,7 @@
     "label": "Sabouraud agar",
     "category": "Lab & Diagnostics",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "Sabouraud dextrose agar has a low pH (~5.6) that inhibits most bacterial growth, making it selective for fungi."
   },
   {
@@ -1357,6 +1526,7 @@
     "label": "Pityriasis versicolor",
     "category": "Pathology",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "Malassezia overgrowth causes hypo- or hyperpigmented, finely scaly patches on the trunk that become obvious after sun exposure tans the surrounding skin."
   },
   {
@@ -1365,6 +1535,7 @@
     "label": "Malassezia KOH",
     "category": "Lab & Diagnostics",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "Malassezia in a KOH prep shows clustered yeast cells (meatballs) with short hyphae (spaghetti), the classic 'spaghetti and meatballs' appearance."
   },
   {
@@ -1373,6 +1544,7 @@
     "label": "Sporotrichosis",
     "category": "Pathology",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "Sporothrix schenckii inoculated through the skin produces a papule that ulcerates and spreads along lymphatic channels as a chain of nodules ('chain of pearls')."
   },
   {
@@ -1381,6 +1553,7 @@
     "label": "Asteroid body",
     "category": "Lab & Diagnostics",
     "brick": "Fungal Skin Infections",
+    "order": 47,
     "explanation": "Asteroid bodies are star-shaped structures surrounding the yeast within giant cells of granulomas, seen in sporotrichosis, especially disseminated disease."
   },
   {
@@ -1389,6 +1562,7 @@
     "label": "Mosquito",
     "category": "Physiology & Mechanisms",
     "brick": "Introduction to Parasitology",
+    "order": 48,
     "explanation": "Mosquitoes are the deadliest animal to humans because they act as biological vectors, spreading malaria, arboviruses, filariasis, and other pathogens that kill millions annually."
   },
   {
@@ -1397,6 +1571,7 @@
     "label": "Scabies",
     "category": "Physiology & Mechanisms",
     "brick": "Introduction to Parasitology",
+    "order": 48,
     "explanation": "Scabies is caused by Sarcoptes scabiei, an ectoparasitic mite that only superficially burrows into the epidermis rather than invading deeper tissues; the itch is a Type I hypersensitivity reaction."
   },
   {
@@ -1405,6 +1580,7 @@
     "label": "Sarcoptes scabiei",
     "category": "Lab & Diagnostics",
     "brick": "Introduction to Parasitology",
+    "order": 48,
     "explanation": "Definitive diagnosis of scabies is made by scraping a burrow and identifying the Sarcoptes scabiei mite, its eggs, or fecal pellets microscopically."
   },
   {
@@ -1413,6 +1589,7 @@
     "label": "Giardia lamblia",
     "category": "Lab & Diagnostics",
     "brick": "Introduction to Parasitology",
+    "order": 48,
     "explanation": "Giardia lamblia is a flagellated protozoan; its paired nuclei and flagella produce the classic 'owl-face' trophozoite that causes fatty, foul-smelling diarrhea."
   },
   {
@@ -1421,6 +1598,7 @@
     "label": "Balantidium coli",
     "category": "Lab & Diagnostics",
     "brick": "Introduction to Parasitology",
+    "order": 48,
     "explanation": "Balantidium coli is the only ciliate known to infect humans; the fuzzy edge is thousands of cilia. It is transmitted fecal-orally and can cause dysentery."
   },
   {
@@ -1429,6 +1607,7 @@
     "label": "Tapeworm",
     "category": "Gross Anatomy",
     "brick": "Introduction to Parasitology",
+    "order": 48,
     "explanation": "Cestodes (tapeworms) have a scolex (head) and a chain of segments called proglottids; each mature proglottid is hermaphroditic, containing both male and female organs."
   },
   {
@@ -1437,6 +1616,7 @@
     "label": "Schistosoma",
     "category": "Histology & Cell Biology",
     "brick": "Introduction to Parasitology",
+    "order": 48,
     "explanation": "Adult schistosomes (blood flukes) are unusual among trematodes in having separate sexes; the male's gynecophoral canal holds the female during continuous mating."
   },
   {
@@ -1445,6 +1625,7 @@
     "label": "Cutaneous ulcer",
     "category": "Pathology",
     "brick": "Protozoan Infections",
+    "order": 49,
     "explanation": "A painless ulcer with a raised, indurated border at a sandfly-bite site after travel to Latin America is classic cutaneous leishmaniasis."
   },
   {
@@ -1453,6 +1634,7 @@
     "label": "Naegleria fowleri",
     "category": "Histology & Cell Biology",
     "brick": "Protozoan Infections",
+    "order": 49,
     "explanation": "N. fowleri uniquely exists as trophozoite, transient flagellate, and cyst forms; it causes primary amebic meningoencephalitis."
   },
   {
@@ -1461,6 +1643,7 @@
     "label": "Naegleria life cycle",
     "category": "Physiology & Mechanisms",
     "brick": "Protozoan Infections",
+    "order": 49,
     "explanation": "N. fowleri ascends the olfactory nerve and crosses the cribriform plate to cause primary amebic meningoencephalitis."
   },
   {
@@ -1469,6 +1652,7 @@
     "label": "Naegleria trophozoite",
     "category": "Lab & Diagnostics",
     "brick": "Protozoan Infections",
+    "order": 49,
     "explanation": "Motile amebic trophozoites in CSF after warm freshwater exposure indicate N. fowleri primary amebic meningoencephalitis."
   },
   {
@@ -1477,6 +1661,7 @@
     "label": "Toxoplasma cyst",
     "category": "Histology & Cell Biology",
     "brick": "Protozoan Infections",
+    "order": 49,
     "explanation": "T. gondii persists as bradyzoite-filled tissue cysts that reactivate when cell-mediated immunity wanes."
   },
   {
@@ -1485,6 +1670,7 @@
     "label": "Toxoplasma life cycle",
     "category": "Physiology & Mechanisms",
     "brick": "Protozoan Infections",
+    "order": 49,
     "explanation": "Felids are the definitive host of T. gondii and shed oocysts in feces; humans are intermediate hosts."
   },
   {
@@ -1493,6 +1679,7 @@
     "label": "Toxoplasma brain lesions",
     "category": "Lab & Diagnostics",
     "brick": "Protozoan Infections",
+    "order": 49,
     "explanation": "Multiple ring-enhancing brain lesions in an AIDS patient are classic for reactivated cerebral toxoplasmosis."
   },
   {
@@ -1501,6 +1688,7 @@
     "label": "Intracranial calcifications",
     "category": "Lab & Diagnostics",
     "brick": "Protozoan Infections",
+    "order": 49,
     "explanation": "The classic triad of chorioretinitis, hydrocephalus, and diffuse intracranial calcifications points to congenital toxoplasmosis."
   },
   {
@@ -1509,6 +1697,7 @@
     "label": "Tachyzoite",
     "category": "Physiology & Mechanisms",
     "brick": "Protozoan Infections",
+    "order": 49,
     "explanation": "The invasive, rapidly replicating form that lyses host cells during acute infection is the tachyzoite; bradyzoites are the latent cyst form."
   },
   {
@@ -1517,6 +1706,7 @@
     "label": "Strawberry cervix",
     "category": "Pathology",
     "brick": "Protozoan Infections",
+    "order": 49,
     "explanation": "The strawberry cervix with frothy malodorous discharge and elevated pH is characteristic of T. vaginalis."
   },
   {
@@ -1525,6 +1715,7 @@
     "label": "Trichomonas vaginalis",
     "category": "Lab & Diagnostics",
     "brick": "Protozoan Infections",
+    "order": 49,
     "explanation": "The motile, pear-shaped trophozoite with an undulating membrane is T. vaginalis, which causes trichomoniasis and colpitis macularis (strawberry cervix)."
   },
   {
@@ -1533,6 +1724,7 @@
     "label": "Clue cell",
     "category": "Lab & Diagnostics",
     "brick": "Protozoan Infections",
+    "order": 49,
     "explanation": "A clue cell (epithelial cell coated with adherent bacteria) indicates bacterial vaginosis, associated with Gardnerella vaginalis."
   },
   {
@@ -1541,6 +1733,7 @@
     "label": "Sandfly",
     "category": "Gross Anatomy",
     "brick": "Protozoan Infections",
+    "order": 49,
     "explanation": "Female phlebotomine sandflies transmit Leishmania spp.; mosquitoes transmit malaria and reduviid bugs transmit Chagas disease."
   },
   {
@@ -1549,6 +1742,7 @@
     "label": "Cutaneous leishmaniasis",
     "category": "Pathology",
     "brick": "Protozoan Infections",
+    "order": 49,
     "explanation": "A chronic, relatively painless ulcer with a raised, rolled border at a sandfly-bite site is cutaneous leishmaniasis."
   },
   {
@@ -1557,6 +1751,7 @@
     "label": "Splenomegaly",
     "category": "Pathology",
     "brick": "Protozoan Infections",
+    "order": 49,
     "explanation": "Visceral leishmaniasis (kala-azar), from L. donovani/L. infantum, causes hepatosplenomegaly, fever, wasting, and pancytopenia."
   },
   {
@@ -1565,6 +1760,7 @@
     "label": "Mucocutaneous leishmaniasis",
     "category": "Pathology",
     "brick": "Protozoan Infections",
+    "order": 49,
     "explanation": "Mucocutaneous leishmaniasis (often L. braziliensis) destroys nasopharyngeal mucosa years after the primary cutaneous lesion."
   },
   {
@@ -1573,6 +1769,7 @@
     "label": "Leishmania amastigotes",
     "category": "Lab & Diagnostics",
     "brick": "Protozoan Infections",
+    "order": 49,
     "explanation": "Amastigotes bearing a nucleus and kinetoplast inside marrow macrophages confirm visceral leishmaniasis; Histoplasma yeasts lack a kinetoplast."
   },
   {
@@ -1581,6 +1778,7 @@
     "label": "Autoinfection",
     "category": "Physiology & Mechanisms",
     "brick": "Helminths",
+    "order": 51,
     "explanation": "When a person ingests T. solium eggs from their own feces, the eggs hatch and larvae disseminate to tissues, causing cysticercosis; this self-reinfection is termed autoinfection."
   },
   {
@@ -1589,6 +1787,7 @@
     "label": "Neurocysticercosis",
     "category": "Lab & Diagnostics",
     "brick": "Helminths",
+    "order": 51,
     "explanation": "Multiple calcified cysts scattered through the brain in a patient with seizures are characteristic of neurocysticercosis from T. solium larvae; it is a leading cause of adult-onset seizures in endemic regions."
   },
   {
@@ -1597,6 +1796,7 @@
     "label": "Cysticercosis",
     "category": "Lab & Diagnostics",
     "brick": "Helminths",
+    "order": 51,
     "explanation": "Disseminated cysticercosis produces multiple calcified larval cysts in skeletal muscle, seen as scattered oval/rice-shaped calcifications on plain films, and can occur alongside neurocysticercosis."
   },
   {
@@ -1605,6 +1805,7 @@
     "label": "Taenia egg",
     "category": "Lab & Diagnostics",
     "brick": "Helminths",
+    "order": 51,
     "explanation": "Taenia eggs are round with a thick radially striated shell and contain a six-hooked oncosphere; the eggs of the different Taenia species are morphologically identical and cannot distinguish between them."
   },
   {
@@ -1613,6 +1814,7 @@
     "label": "T. solium scolex",
     "category": "Lab & Diagnostics",
     "brick": "Helminths",
+    "order": 51,
     "explanation": "T. solium has an armed scolex with a rostellum bearing two rows of hooks, whereas T. saginata has four suckers but no rostellum or hooks."
   },
   {
@@ -1621,6 +1823,7 @@
     "label": "Gravid proglottid",
     "category": "Lab & Diagnostics",
     "brick": "Helminths",
+    "order": 51,
     "explanation": "T. solium gravid proglottids have 7-13 lateral uterine branches per side, while T. saginata has 12-30; counting branches distinguishes the two species."
   },
   {
@@ -1629,6 +1832,7 @@
     "label": "Diphyllobothrium proglottid",
     "category": "Lab & Diagnostics",
     "brick": "Helminths",
+    "order": 51,
     "explanation": "Diphyllobothrium proglottids have a central, rosette-shaped uterus, which distinguishes them from the laterally branching uterus of Taenia proglottids."
   },
   {
@@ -1637,6 +1841,7 @@
     "label": "Strongyloides cycle",
     "category": "Physiology & Mechanisms",
     "brick": "Helminths",
+    "order": 52,
     "explanation": "The skin-penetration to lung-migration to gut-maturation sequence is the classic infectious cycle of Strongyloides stercoralis (shared in broad strokes with hookworms), distinguishing it from fecal-orally acquired worms."
   },
   {
@@ -1645,6 +1850,7 @@
     "label": "Strongyloides cycle",
     "category": "Physiology & Mechanisms",
     "brick": "Helminths",
+    "order": 52,
     "explanation": "Strongyloides stercoralis is unusual among helminths in performing autoinfection: rhabditiform larvae mature and re-penetrate the gut mucosa or perianal skin, sustaining infection for years and driving hyperinfection under immunosuppression."
   },
   {
@@ -1653,6 +1859,7 @@
     "label": "Bronchoalveolar lavage",
     "category": "Lab & Diagnostics",
     "brick": "Helminths",
+    "order": 52,
     "explanation": "Bronchoalveolar lavage instills and aspirates sterile saline to sample the alveolar space; in hyperinfection it can recover migrating Strongyloides larvae when sputum is unrevealing."
   },
   {
@@ -1661,6 +1868,7 @@
     "label": "Hookworm mouth",
     "category": "Histology & Cell Biology",
     "brick": "Helminths",
+    "order": 52,
     "explanation": "Hookworms (Ancylostoma duodenale shown; Necator americanus uses cutting plates) use these buccal teeth/plates to grip and lacerate the small-bowel mucosa, feeding on blood and causing iron-deficiency anemia in heavy infections."
   },
   {
@@ -1669,6 +1877,7 @@
     "label": "Hookworm life cycle",
     "category": "Physiology & Mechanisms",
     "brick": "Helminths",
+    "order": 52,
     "explanation": "Hookworm larvae penetrate intact skin (often the foot), migrate through the lungs, and mature in the gut; unlike Strongyloides they cannot autoinfect, so eggs must pass in stool and develop in soil."
   },
   {
@@ -1677,6 +1886,7 @@
     "label": "Charcot-Leyden crystals",
     "category": "Histology & Cell Biology",
     "brick": "Helminths",
+    "order": 52,
     "explanation": "These are Charcot-Leyden crystals, formed from galectin-10 released by degranulating eosinophils; they signal eosinophil-rich processes such as parasitic or allergic disease."
   },
   {
@@ -1685,6 +1895,7 @@
     "label": "Hookworm egg",
     "category": "Lab & Diagnostics",
     "brick": "Helminths",
+    "order": 52,
     "explanation": "Hookworm eggs are thin-shelled ovals with a segmented embryo and a characteristic clear gap beneath the smooth shell; Ancylostoma and Necator eggs are morphologically indistinguishable."
   },
   {
@@ -1693,6 +1904,7 @@
     "label": "Ascaris life cycle",
     "category": "Physiology & Mechanisms",
     "brick": "Helminths",
+    "order": 52,
     "explanation": "Ascaris (the giant roundworm) is acquired fecal-orally by ingesting embryonated eggs; larvae undergo lung migration before maturing into large adults in the gut, and unlike hookworms/Strongyloides it does not penetrate skin."
   },
   {
@@ -1701,6 +1913,7 @@
     "label": "Ascaris egg",
     "category": "Lab & Diagnostics",
     "brick": "Helminths",
+    "order": 52,
     "explanation": "Fertilized Ascaris eggs are round with a thick shell and a bumpy (mammillated) albuminous coat; recognizing this coat distinguishes them from the smooth-shelled eggs of hookworm and Enterobius."
   },
   {
@@ -1709,6 +1922,7 @@
     "label": "Pinworm",
     "category": "Lab & Diagnostics",
     "brick": "Helminths",
+    "order": 52,
     "explanation": "Enterobius vermicularis (pinworm) is a small white nematode whose gravid females migrate to the anus at night to lay eggs, producing the classic perianal pruritus in children."
   },
   {
@@ -1717,6 +1931,7 @@
     "label": "Enterobius life cycle",
     "category": "Physiology & Mechanisms",
     "brick": "Helminths",
+    "order": 52,
     "explanation": "Pinworm has a simple fecal-oral cycle with no tissue migration: gravid females crawl to the perianal skin at night to lay eggs, driving itching, scratching, and self-reinfection."
   },
   {
@@ -1725,6 +1940,7 @@
     "label": "Pinworm egg",
     "category": "Lab & Diagnostics",
     "brick": "Helminths",
+    "order": 52,
     "explanation": "Pinworm eggs are colorless and ovoid with one flattened side (D-shaped); they are best recovered with cellulose (Scotch) tape from the perianal region in the morning."
   },
   {
@@ -1733,6 +1949,7 @@
     "label": "Ascaris egg",
     "category": "Lab & Diagnostics",
     "brick": "Helminths",
+    "order": 52,
     "explanation": "The round egg with a nodular (mammillated) coat is a fertilized Ascaris lumbricoides egg; hookworms have smooth thin-shelled eggs and Strongyloides is usually identified by larvae rather than eggs in stool."
   },
   {
@@ -1741,6 +1958,7 @@
     "label": "Staphylococcus",
     "category": "Histology & Cell Biology",
     "brick": "Gram-Positive and Negative Algorithms",
+    "order": 5,
     "explanation": "Gram-positive cocci that bunch into grape-like clusters are characteristic of Staphylococcus, which divides in multiple planes. Streptococci form chains, Neisseria form diplococci, and Bacillus/Clostridium are rods."
   },
   {
@@ -1749,6 +1967,7 @@
     "label": "Candida",
     "category": "Lab & Diagnostics",
     "brick": "Gram-Positive and Negative Algorithms",
+    "order": 5,
     "explanation": "Sabouraud dextrose agar uses an acidic pH plus antibiotics to inhibit bacteria and favor the growth of fungi such as Candida and Aspergillus."
   },
   {
@@ -1757,6 +1976,7 @@
     "label": "E. coli",
     "category": "Lab & Diagnostics",
     "brick": "Gram-Positive and Negative Algorithms",
+    "order": 5,
     "explanation": "Rapid, vigorous lactose fermentation by E. coli produces amines that bind the dyes, creating the characteristic green metallic sheen on EMB."
   },
   {
@@ -1765,6 +1985,7 @@
     "label": "Gram-positive algorithm",
     "category": "Lab & Diagnostics",
     "brick": "Gram-Positive and Negative Algorithms",
+    "order": 5,
     "explanation": "S. pyogenes (Group A) is bacitracin sensitive, whereas S. agalactiae (Group B) is bacitracin resistant. Optochin and novobiocin are used for other organisms."
   },
   {
@@ -1773,6 +1994,7 @@
     "label": "Catalase test",
     "category": "Lab & Diagnostics",
     "brick": "Gram-Positive and Negative Algorithms",
+    "order": 5,
     "explanation": "Catalase-positive staphylococci break H2O2 into water and oxygen, producing bubbles; streptococci are catalase negative and produce none."
   },
   {
@@ -1781,6 +2003,7 @@
     "label": "Optochin test",
     "category": "Lab & Diagnostics",
     "brick": "Gram-Positive and Negative Algorithms",
+    "order": 5,
     "explanation": "S. pneumoniae is optochin sensitive, producing a clear zone of inhibition, whereas viridans streptococci are optochin resistant and grow up to the disk."
   },
   {
@@ -1789,6 +2012,7 @@
     "label": "Gram-negative algorithm",
     "category": "Lab & Diagnostics",
     "brick": "Gram-Positive and Negative Algorithms",
+    "order": 5,
     "explanation": "Pseudomonas is oxidase positive while most Enterobacteriaceae (E. coli, Shigella, Salmonella) are oxidase negative, making oxidase the key early branch."
   },
   {
@@ -1797,6 +2021,7 @@
     "label": "Oxidase test",
     "category": "Lab & Diagnostics",
     "brick": "Gram-Positive and Negative Algorithms",
+    "order": 5,
     "explanation": "The oxidase reagent turns blue-purple when oxidized by cytochrome c oxidase, marking an oxidase-positive organism; a pale result is oxidase negative."
   },
   {
@@ -1805,6 +2030,7 @@
     "label": "Staphylococci",
     "category": "Lab & Diagnostics",
     "brick": "Staphylococci",
+    "order": 6,
     "explanation": "Staphylococci retain the crystal violet stain (Gram-positive, purple) and, dividing in multiple planes, form the characteristic grape-like clusters seen here, distinguishing them from chain-forming streptococci and rod-shaped organisms."
   },
   {
@@ -1813,6 +2039,7 @@
     "label": "Catalase test",
     "category": "Lab & Diagnostics",
     "brick": "Staphylococci",
+    "order": 6,
     "explanation": "Catalase converts hydrogen peroxide to water and oxygen; the visible oxygen bubbles mark a catalase-positive organism, which separates staphylococci from catalase-negative streptococci and enterococci."
   },
   {
@@ -1821,6 +2048,7 @@
     "label": "Beta-hemolysis",
     "category": "Lab & Diagnostics",
     "brick": "Staphylococci",
+    "order": 6,
     "explanation": "Complete lysis of erythrocytes leaving a clear, transparent zone is beta-hemolysis; among the common staphylococci only S. aureus is beta-hemolytic, giving another way to separate it from S. epidermidis and S. saprophyticus."
   },
   {
@@ -1829,6 +2057,7 @@
     "label": "Kirby-Bauer test",
     "category": "Lab & Diagnostics",
     "brick": "Staphylococci",
+    "order": 6,
     "explanation": "In a disk-diffusion (Kirby-Bauer) assay, antibiotic diffuses outward from each disk; a clear zone of inhibited growth means the drug stopped the bacteria (susceptible), while growth reaching the disk edge means the organism is resistant."
   },
   {
@@ -1837,6 +2066,7 @@
     "label": "Peptidoglycan",
     "category": "Physiology & Mechanisms",
     "brick": "Cephalosporins",
+    "order": 7,
     "explanation": "The rigidity of the peptidoglycan wall comes from transpeptidase (penicillin-binding protein) enzymes cross-linking adjacent peptide chains that dangle from the NAM-NAG sugar backbone. Cephalosporins are structural analogs of the D-Ala-D-Ala substrate and covalently inhibit these transpeptidases, halting cross-linking so the growing cell lyses."
   },
   {
@@ -1845,6 +2075,7 @@
     "label": "β-lactam ring",
     "category": "Pharmacology",
     "brick": "Cephalosporins",
+    "order": 7,
     "explanation": "The strained four-membered β-lactam ring is what covalently binds and inhibits transpeptidases. Bacteria resist β-lactam antibiotics chiefly by secreting β-lactamases, enzymes that cleave the amide bond of this ring and render the drug inactive."
   },
   {
@@ -1853,6 +2084,7 @@
     "label": "Beta-lactam classes",
     "category": "Pharmacology",
     "brick": "Carbapenems",
+    "order": 8,
     "explanation": "Monobactams (lower right) are the only class shown with a solitary, monocyclic beta-lactam ring not fused to a second ring. Penicillins have a fused thiazolidine ring, cephalosporins a fused dihydrothiazine ring, and carbapenems a fused carbon-containing ring. This monocyclic structure underlies aztreonam's minimal cross-reactivity with penicillins."
   },
   {
@@ -1861,6 +2093,7 @@
     "label": "Bacterial cell wall",
     "category": "Physiology & Mechanisms",
     "brick": "Carbapenems",
+    "order": 8,
     "explanation": "The enzyme shown (a penicillin-binding protein) is a transpeptidase that cross-links adjacent NAM-NAG peptidoglycan strands. Beta-lactams irreversibly inhibit it, so without cross-linking the wall cannot withstand osmotic pressure and the growing bacterium lyses."
   },
   {
@@ -1869,6 +2102,7 @@
     "label": "Adverse reactions",
     "category": "Pharmacology",
     "brick": "Carbapenems",
+    "order": 8,
     "explanation": "The central panel depicts seizures. Carbapenems can lower the seizure threshold, but the risk is greatest with imipenem/cilastatin, especially at high doses or when drug accumulates due to renal impairment. Meropenem is preferred clinically because of its lower seizure risk."
   },
   {
@@ -1877,6 +2111,7 @@
     "label": "Peptidoglycan synthesis",
     "category": "Physiology & Mechanisms",
     "brick": "Vancomycin and Bacitracin",
+    "order": 9,
     "explanation": "Bacitracin blocks the recycling of the bactoprenol (lipid) carrier, so NAM cannot be joined to it and no new peptidoglycan subunits are transported to the wall. This is an early step, distinct from vancomycin's later D-Ala-D-Ala binding and from the transpeptidase cross-linking targeted by beta-lactams."
   }
 ]
